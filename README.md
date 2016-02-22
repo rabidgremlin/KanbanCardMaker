@@ -39,7 +39,7 @@ Under _Tools_ | _Settings_ | _PDF Export_ set the following options:
 * Uncheck _Auto-Center Layouts_
 * Uncheck _Print Layouts on New Page_
 
-When printing the PDF, select A4, 2 pages per page, single sided, portrait mode.
+When printing the PDF, select A4, 2 pages per page, single sided, landscape orientation.
 
 
 
