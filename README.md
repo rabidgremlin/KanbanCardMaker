@@ -16,11 +16,12 @@ All cards and labels can also be generated into a PDF. [Here is an example](exam
 ## Set up
 
 1. Install [Card Maker](https://github.com/nhmkdev/cardmaker)
-2. Edit _Cards.csv_
-3. Edit _Labels.csv_
-4. Start _Card Maker_ and load the _KanbanCards.cmp_ project file
-5. From _Layout_ menu select _Reload References_ (or press F9)
-6. From _File_ menu select _Export Project to Images_ or _Export Project to PDF_ (See below for on how to adjust PDF output)
+2. Install fonts (see README in fonts folder)
+3. Edit _Cards.csv_
+4. Edit _Labels.csv_
+5. Start _Card Maker_ and load the _KanbanCards.cmp_ project file
+6. From _Layout_ menu select _Reload References_ (or press F9)
+7. From _File_ menu select _Export Project to Images_ or _Export Project to PDF_ (See below for on how to adjust PDF output)
  
 ## Tweaking the output
 The cards and labels are set up to take up half an A4 page in portrait at 150dpi, so 2 cards or labels per page. Use the _Layout Control_ panel to for the _Layouts_ if you wish to adjust these (you will need to reposition the layout elements.
