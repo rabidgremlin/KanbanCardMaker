@@ -1,0 +1,7 @@
+Id,Tags,StartedDate,FinishedDate,DaysToComplete,Story
+HR-000,EP-1,25/11/2015,22/12/2015,28,"As an HR manager, I need to purchase an upgraded service tier so I can add additional topics to my quiz."
+HR-001,EP-1,25/11/2015,,,"As an HR manager, I want to match an open position's required skills with quiz topics so I can create a quiz relevant for candidate screening."
+HR-002,EP-2,,,,"As a manager, I want to browse my existing quizzes so I can recall what I have in place and figure out if I can just reuse or update an existing quiz for the position I need now."
+HR-003,EP-2,,,,"As an HR manager, I want to add custom questions to the quiz so we cover additional topics that are important to the functional manager."
+HR-004,EP-3,,,,"As a functional manager, I want to send feedback on the screening quiz to the HR manager so I make sure I'm getting the best possible screening on candidates."
+HR-005,EP-3,,,,"As an HR manager, I want to send a draft quiz to the the functional manager so I make sure I've covered the right topics on the screening quiz."
